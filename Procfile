@@ -1,1 +1,1 @@
-web: herokuAddr=siteproxy.herokuapp.com npm run start
+web: herokuAddr=web-proxy-xinran-test01.herokuapp.com npm run start
